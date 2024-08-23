@@ -7,10 +7,10 @@
 <br/>
 
 [![Version](https://img.shields.io/github/v/release/MidlineGP/ti-cmd?label=Version&color=blue)](https://github.com/MidlineGP/ti-cmd/releases/latest)
-[![Download](https://img.shields.io/github/downloads/MidlineGP/ti-cmd/total?label=Download)](https://github.com/MidlineGP/ti-cmd/releases/latest/download/ti-cmd.exe)
-[![Source Code](https://img.shields.io/badge/Source%20Code-8A2BE2)](https://github.com/MidlineGP/ti-cmd/releases/latest/download/ti-cmd.ps1)
 [![Stars](https://img.shields.io/github/stars/MidlineGP/ti-cmd?style=flat&label=Stars&color=tomato
 )](https://github.com/MidlineGP/ti-cmd)
+[![Download](https://img.shields.io/github/downloads/MidlineGP/ti-cmd/total?label=Download)](https://github.com/MidlineGP/ti-cmd/releases/latest/download/ti-cmd.exe)
+[![Source Code](https://img.shields.io/badge/Source%20Code-8A2BE2)](https://github.com/MidlineGP/ti-cmd/releases/latest/download/ti-cmd.ps1)
 <br/><br/>
 <img src="https://code.midline.ir/ti-cmd/assets/ScreenShot.png" width="100%" />
 <div dir="rtl">
