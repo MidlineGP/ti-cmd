@@ -8,6 +8,7 @@
 )](https://github.com/MidlineGP/ti-cmd)
 <div dir="rtl">
 شاید فکر کنید بالاترین دسترسی را در ویندوز حساب کاربری ادمیناستریتور (Administrator) یا حتی سیستم (System) دارد اما سخت در اشتباهید!
+<br />
 </div>
 <img src="https://code.midline.ir/ti-cmd/assets/ScreenShot.png" width="100%" />
 <div dir="rtl">
