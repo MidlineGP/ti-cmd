@@ -4,13 +4,13 @@
 <div dir="rtl">
 شاید فکر کنید بالاترین دسترسی را در ویندوز حساب کاربری ادمیناستریتور (Administrator) یا حتی سیستم (System) دارد اما سخت در اشتباهید!
 </div>
-<br/><br/>
+<br/>
 
 [![Version](https://img.shields.io/github/v/release/MidlineGP/ti-cmd?label=Version&color=blue)](https://github.com/MidlineGP/ti-cmd/releases/latest)
 [![Download](https://img.shields.io/github/downloads/MidlineGP/ti-cmd/total?label=Download)](https://github.com/MidlineGP/ti-cmd/releases/latest/download/ti-cmd.exe)
 [![Stars](https://img.shields.io/github/stars/MidlineGP/ti-cmd?style=flat&label=Stars&color=tomato
 )](https://github.com/MidlineGP/ti-cmd)
-<br/>
+<br/><br/>
 <img src="https://code.midline.ir/ti-cmd/assets/ScreenShot.png" width="100%" />
 <div dir="rtl">
 <h2 dir="rtl">تی‌آی سی‌ام‌دی چیست؟</h2>
