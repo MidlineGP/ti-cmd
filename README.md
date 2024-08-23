@@ -20,11 +20,7 @@
 برای نصب و استفاده از این برنامه کافیست آخرین نسخه ی ی‌آی سی‌ام‌دی را از <a href="https://github.com/MidlineGP/ti-cmd/releases/latest/download/ti-cmd.exe">این لینک</a> دانلود کرده و بعد آن را باز کنید، از شما خواسته میشود که دسترسی ادمین را به برنامه بدهید و بعد باقی مراحل بصورت خودکار باز میشود.
 <br />
 در صورت موفقیت آمیز بودن عملیات یک سی‌ام‌دی باز میشود، برای مطمین شدن از اینکه ترمینال دسترسی تراستد اینستالر را دارد یا نه کافیست دستور زیر را وارد کنید :
-</div>
-```
-
-```
-<div dir="rtl">
+<pre>$ whoami /groups </pre>
 <br />
 <h3 dir="rtl">نصب ساندیس فارسی روی دیسکورد وب</h3>
 برای نصب زبان شیرین فارسی روی دیسکورد نسخه وب ابتدا باید پلاگین Stylus را برای <a target="_blank" href="https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne">گوگل کروم</a>، <a target="_blank" href="https://addons.mozilla.org/firefox/addon/styl-us/">فایر فاکس</a> یا <a target="_blank" href="https://addons.opera.com/extensions/details/stylus/">اپرا</a> نصب کنید.
