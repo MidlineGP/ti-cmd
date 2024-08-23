@@ -2,14 +2,16 @@
     <h1>تی‌آی سی‌ام‌دی</h1>
 </div>
 
-<img src="https://code.midline.ir/ti-cmd/assets/ScreenShot.png" width="100%" />
 [![Version](https://img.shields.io/github/v/release/MidlineGP/ti-cmd?label=Version&color=blue)](https://github.com/MidlineGP/ti-cmd/releases/latest)
 [![Download](https://img.shields.io/github/downloads/MidlineGP/ti-cmd/total?label=Download)](https://github.com/MidlineGP/ti-cmd/releases/latest/download/ti-cmd.exe)
 [![Stars](https://img.shields.io/github/stars/MidlineGP/ti-cmd?style=flat&label=Stars&color=tomato
 )](https://github.com/MidlineGP/ti-cmd)
 <div dir="rtl">
 شاید فکر کنید بالاترین دسترسی را در ویندوز حساب کاربری ادمیناستریتور (Administrator) یا حتی سیستم (System) دارد اما سخت در اشتباهید!
-<br/>
+</div>
+<img src="https://code.midline.ir/ti-cmd/assets/ScreenShot.png" width="100%" />
+<div dir="rtl">
+<h3 dir="rtl">تی‌آی سی‌ام‌دی چیست؟</h3>
 بالاترین دسترسی را در سلسله مراتب دسترسی ویندوز سرویس تراستد اینستالر (NT SERVICE\TrustedInstaller) دارد که در واقع وظیفه ی نصب، بروزرسانی و مراقبت از هسته ی سیستم عامل، برنامه های اصلی و فایل های حیاتی سیستم عامل را بر عهده دارد.
 <br/><br/>
 تی‌آی سی‌ام‌دی برنامه ای است که با استفاده از آن میتوانید یک سی‌ام‌دی را به عنوان تراستد اینستالر باز کنید و از دسترسی های نامحدود آن به تمامی فایل های سیستم استفاده کنید.
