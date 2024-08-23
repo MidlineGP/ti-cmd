@@ -56,7 +56,7 @@ Install-Module ps2exe
 <br/>
 بعد از نصب ماژول، برای باز کردن رابط کاربری ان دستور زیر را در پاورشل وارد کنید :
 <br/>
-</div>
+</div><br/>
 
 ```powershell
 Win-PS2EXE
