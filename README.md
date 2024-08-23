@@ -1,5 +1,5 @@
 <h2 dir="rtl">تی‌آی سی‌ام‌دی</h2>
-<img src="https://code.midline.ir/SandisFarsi/assets/ScreenShot.png" width="100%" />
+<img src="https://code.midline.ir/ti-cmd/assets/ScreenShot.png" width="100%" />
 <div dir="rtl">
 <h3 dir="rtl">تی‌آی سی‌ام‌دی چیست؟</h3>
 شاید فکر کنید بالاترین دسترسی را در ویندوز حساب کاربری ادمیناستریتور (Administrator) یا حتی سیستم (System) دارد اما سخت در اشتباهید!
